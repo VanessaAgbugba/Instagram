@@ -194,4 +194,19 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
+    public void feedButton(View view) {
+        goToFeedActivity();
+
+    }
+
+    public void goToFeedActivity() {
+        Intent i = new Intent(this, FeedActivity.class);
+
+        startActivity(i);
+        finish();
+    }
+
+
+
 }

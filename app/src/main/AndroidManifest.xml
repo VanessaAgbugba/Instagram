@@ -38,6 +38,8 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.instagramclone.data.MainActivity" />
+        <activity android:name="com.example.instagramclone.data.FeedActivity" />
+        <activity android:name="com.example.instagramclone.data.DetailsActivity" />
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
