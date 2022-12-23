@@ -1,4 +1,4 @@
-# Project Name - *Instagram Mock-Up*
+# Project Name - *Instagram Clone*
 
 This project uses Parse as its backend as it is a photo sharing app.
 
